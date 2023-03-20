@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: open-sauced
+  title: Open Sauced
   description: Open Sauced Description
   tags:
     - nodejs
