@@ -49,6 +49,7 @@ metadata:
     - nodejs
   annotations:
     github.com/project-slug: ivamuno-backstage/open-sauced
+  links: []
 spec:
   type: service
   lifecycle: experimental
