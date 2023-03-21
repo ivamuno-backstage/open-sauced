@@ -40,6 +40,24 @@ spec:
 
 ---
 apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: open-sauced-consumer
+  title: Open Sauced consumer
+  description: Open Sauced consumer
+  tags:
+    - nodejs
+  annotations:
+    github.com/project-slug: ivamuno-backstage/open-sauced
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
+  consumesApis:
+    - open-sauced-events
+
+---
+apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: open-sauced
