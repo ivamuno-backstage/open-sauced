@@ -64,9 +64,9 @@ metadata:
   name: open-sauced-events
   description: Open Sauced events
   tags:
-    - mqtt
+    - kafka
   links:
-    - url: https://github.com/asyncapi/asyncapi/blob/master/examples/1.2.0/streetlights.yml
+    - url: https://github.com/asyncapi/spec/blob/master/examples/streetlights-kafka.yml
       title: Source spec
       icon: code
 spec:
@@ -74,4 +74,4 @@ spec:
   lifecycle: experimental
   owner: team-a
   definition:
-    $text: https://github.com/asyncapi/asyncapi/blob/master/examples/1.2.0/streetlights.yml
+    $text: https://github.com/asyncapi/spec/blob/master/examples/streetlights-kafka.yml
