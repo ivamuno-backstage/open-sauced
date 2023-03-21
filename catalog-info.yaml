@@ -43,6 +43,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: open-sauced
+  title: Open Sauced API
   description: Open Sauced API
   tags:
     - rest
@@ -62,6 +63,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: open-sauced-events
+  title: Open Sauced events
   description: Open Sauced events
   tags:
     - kafka
