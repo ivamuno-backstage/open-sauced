@@ -8,6 +8,7 @@ metadata:
     - nodejs
   annotations:
     github.com/project-slug: ivamuno-backstage/open-sauced
+    sonarqube.org/project-key: ivamuno-backstage_open-sauced
   links:
     - url: https://example.com/user
       title: Examples Users
