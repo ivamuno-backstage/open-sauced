@@ -2,6 +2,9 @@ site_name: open-sauced
 
 nav:
   - Home: index.md
+  - Integrations:
+    - A PSP: integrations/a-psp.md
 
 plugins:
   - techdocs-core
+  - kroki
