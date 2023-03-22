@@ -1,16 +1,15 @@
 ---
-# These are optional elements. Feel free to remove any of them.
 status: superseded by [ADR-0002](0002-other-adr.md)
 date: 2023-03-22
 deciders:
-  - '@ivamuno'
-  - '@gomete'
+  - @ivamuno
+  - @gomete
 consulted:
-  - '@ivamuno'
-  - '@gomete'
+  - @ivamuno
+  - @gomete
 informed:
-  - '@ivamuno'
-  - '@gomete'
+  - @ivamuno
+  - @gomete
 ---
 # Use ADRs
 
