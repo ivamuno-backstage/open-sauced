@@ -1,6 +1,6 @@
 # Use ADRs
 
-* Status: superseded by [ADR-0002](0002-other-adr.md)
+* Status: superseded
 * Deciders:
   * [Iván Muñoz Mozo](https://github.com/ivamuno)
   * [Jorge Gómez Rivas](https://github.com/gomete)
