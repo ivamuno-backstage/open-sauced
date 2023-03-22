@@ -30,7 +30,7 @@ metadata:
     - url: https://example.com/metrics
       title: Metrics Tool
       icon: web
-    - url: https://example.com/alert
+    - url: https://example.com/alerts
       title: Alert Tool
       icon: alert
 spec:
