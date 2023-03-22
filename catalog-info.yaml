@@ -21,17 +21,17 @@ metadata:
     - url: https://example.com/cloud
       title: Link with Cloud Icon
       icon: cloud
-    - url: https://example.com/dashboard
-      title: Dashboard
+    - url: https://example.com/backlog
+      title: Backlog Tool
       icon: dashboard
     - url: https://example.com/help
-      title: Support
+      title: Incident Tool
       icon: help
-    - url: https://example.com/web
-      title: Website
+    - url: https://example.com/metrics
+      title: Metrics Tool
       icon: web
     - url: https://example.com/alert
-      title: Alerts
+      title: Alert Tool
       icon: alert
 spec:
   type: service
