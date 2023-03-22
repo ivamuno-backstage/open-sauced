@@ -1,5 +1,5 @@
 ---
-status: superseded
+status: proposed
 date: 2023-03-22
 deciders: [Iván Muñoz Mozo](https://github.com/ivamuno), [Jorge Gómez Rivas](https://github.com/gomete)
 ---
