@@ -1,6 +1,6 @@
 ---
 status: superseded by [ADR-0002](0002-other-adr.md)
-date: 2023-03-22
+date: '2023-03-22'
 deciders:
   - @ivamuno
   - @gomete
