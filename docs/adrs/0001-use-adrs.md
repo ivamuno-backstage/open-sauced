@@ -1,6 +1,7 @@
 ---
-status: accepted
+status: rejected
 date: 2023-03-22
+deciders: [Iván Muñoz Mozo](https://github.com/ivamuno), [Jorge Gómez Rivas](https://github.com/gomete)
 ---
 # Use ADRs
 
@@ -8,7 +9,6 @@ date: 2023-03-22
 
 The first ADR.
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
 * One decision.
@@ -23,18 +23,15 @@ The first ADR.
 
 Chosen option: "One option", because it is the best.
 
-<!-- This is an optional element. Feel free to remove. -->
 ### Consequences
 
 * Good, because it is the best.
 * Bad, because it is not the bestest.
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Validation
 
 Validating it obviously.
 
-<!-- This is an optional element. Feel free to remove. -->
 ## Pros and Cons of the Options
 
 ### One option
@@ -49,7 +46,6 @@ Validating it obviously.
 * Neutral, because it is not bad.
 * Bad, because it is not the best.
 
-<!-- This is an optional element. Feel free to remove. -->
 ## More Information
 
 Some info including links to:
