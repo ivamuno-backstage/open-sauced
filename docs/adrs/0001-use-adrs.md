@@ -1,9 +1,12 @@
----
-status: proposed
-date: 2023-03-22
-deciders: [Iván Muñoz Mozo](https://github.com/ivamuno), [Jorge Gómez Rivas](https://github.com/gomete)
----
 # Use ADRs
+
+* Status: superseded by [ADR-0002](0002-other-adr.md)
+* Deciders:
+  * [Iván Muñoz Mozo](https://github.com/ivamuno)
+  * [Jorge Gómez Rivas](https://github.com/gomete)
+* Date: 2023-03-22
+
+Technical Story: [My issue](https://www.google.com)
 
 ## Context and Problem Statement
 

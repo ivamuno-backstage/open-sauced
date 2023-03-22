@@ -1,17 +1,12 @@
----
-status: accepted
-date: 2023-03-23
-deciders:
-  - [Iván Muñoz Mozo](https://github.com/ivamuno)
-  - [Jorge Gómez Rivas](https://github.com/gomete)
-consulted:
-  - [Iván Muñoz Mozo](https://github.com/ivamuno)
-  - [Jorge Gómez Rivas](https://github.com/gomete)
-informed:
-  - [Iván Muñoz Mozo](https://github.com/ivamuno)
-  - [Jorge Gómez Rivas](https://github.com/gomete)
----
 # Other ADR
+
+* Status: accepted
+* Deciders:
+  * [Iván Muñoz Mozo](https://github.com/ivamuno)
+  * [Jorge Gómez Rivas](https://github.com/gomete)
+* Date: 2023-03-22
+
+Technical Story: [My issue](https://www.google.com)
 
 ## Context and Problem Statement
 
