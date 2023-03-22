@@ -7,6 +7,7 @@ metadata:
   tags:
     - nodejs
   annotations:
+    backstage.io/adr-location: ./docs/adrs
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ivamuno-backstage/open-sauced
     sonarqube.org/project-key: ivamuno-backstage/ivamuno-backstage_open-sauced
