@@ -33,6 +33,9 @@ metadata:
     - url: https://example.com/alert
       title: Alert Tool
       icon: alert
+    - url: https://example.com/logging
+      title: Logging Tool
+      icon: help
 spec:
   type: service
   lifecycle: experimental
